@@ -58,10 +58,10 @@
             * `-----------------------------------------------------------------------------------'
             */
             bindings = <
-&kp LS(GRAVE) &kp LS(N1)            &kp LS(N2)  &kp LS(N3) &kp LS(N4) &kp LS(N5) &kp LS(N6) &kp LS(N7)     &kp LS(N8)  &kp LS(N9)     &kp LS(N0)       &kp DEL
-&kp DEL       &kp LG(LS(LC(N4)))    &LG(LS(N4)) &trans     &trans     &trans     &trans     &kp UNDERSCORE &kp KP_PLUS &kp LEFT_BRACE &kp RIGHT_BRACE  &kp PIPE
-&trans        &trans                &trans     &trans      &trans     &trans     &trans     &kp HOME       &kp PG_DN   &kp HOME       &kp END          &trans
-&trans        &trans                &trans     &trans      &trans     &trans     &trans     &trans         &trans      &trans         &trans           &trans
+&kp LS(GRAVE) &kp LS(N1)            &kp LS(N2)     &kp LS(N3) &kp LS(N4) &kp LS(N5) &kp LS(N6) &kp LS(N7)     &kp LS(N8)  &kp LS(N9)     &kp LS(N0)       &kp DEL
+&kp DEL       &kp LG(LS(LC(N4)))    &kp LG(LS(N4)) &trans     &trans     &trans     &trans     &kp UNDERSCORE &kp KP_PLUS &kp LEFT_BRACE &kp RIGHT_BRACE  &kp PIPE
+&trans        &trans                &trans         &trans      &trans     &trans     &trans     &kp HOME       &kp PG_DN   &kp HOME       &kp END          &trans
+&trans        &trans                &trans         &trans      &trans     &trans     &trans     &trans         &trans      &trans         &trans           &trans
             >;
         };
 
